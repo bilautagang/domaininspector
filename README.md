@@ -7,15 +7,16 @@ DomainInspector is a simple and efficient bash script designed to check the live
     Logging: Provides feedback on both live and non-live domains during execution.
 
 **Usage**
-        **1. Clone the repository:**
-        git clone https://github.com/infosecayush/domaininspector.git
-        cd domaininspector
 
-        **2. Make the script executable:**
-        chmod +x domaininspector.sh
+        1. Clone the repository:
+                git clone https://github.com/infosecayush/domaininspector.git
+                cd domaininspector
 
-        **3. Run the script:**
-        ./domaininspector.sh <input_file> [output_file]
+        2. Make the script executable:
+                chmod +x domaininspector.sh
+
+        3. Run the script:
+                ./domaininspector.sh <input_file> [output_file]
 
         <input_file>: Path to the file containing the list of domains to check.
         [output_file] (optional): Path to the file where live domains will be saved. Defaults to live_domains.txt.
