@@ -9,7 +9,7 @@ DomainInspector is a simple and efficient bash script designed to check the live
 **Usage**
 
         1. Clone the repository:
-                git clone https://github.com/infosecayush/domaininspector.git
+                git clone https://github.com/bilautagang/domaininspector.git
                 cd domaininspector
 
         2. Make the script executable:
